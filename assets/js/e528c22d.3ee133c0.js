@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_bertcatsburg=self.webpackChunkdocusaurus_bertcatsburg||[]).push([[581],{3769:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
